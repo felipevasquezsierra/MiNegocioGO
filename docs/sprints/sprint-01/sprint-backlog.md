@@ -7,7 +7,7 @@ Construir la primera base funcional de MiNegocioGO para la gestión de productos
 ## Historias seleccionadas
 
 ### [ ] US-01 – Registrar productos 
-**Encargada:**Oriana
+**Encargada:** Oriana
 
 **Descripción:** Permitir al pequeño comerciante registrar los datos básicos de los productos para mantener organizada su información.
 
@@ -16,7 +16,7 @@ Construir la primera base funcional de MiNegocioGO para la gestión de productos
 ---
 
 ### [ ] US-02 – Consultar productos registrados
-**Encargada:**Valeria
+**Encargada:** Valeria
 
 **Descripción:** Permitir al pequeño comerciante consultar el listado y la información básica de los productos registrados.
 
@@ -25,7 +25,7 @@ Construir la primera base funcional de MiNegocioGO para la gestión de productos
 ---
 
 ### [ ] US-03 – Actualizar información de productos
-**Encargado:**Felipe
+**Encargado:** Felipe
 
 **Descripción:** Permitir al pequeño comerciante modificar y guardar la información de un producto existente.
 
