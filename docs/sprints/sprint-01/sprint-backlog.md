@@ -1,17 +1,23 @@
-# Sprint 1 – Backlog de trabajo
+### [ ] HU01: Registrar productos
+* **Responsable:** Oriana | **Puntos:** 5 | **Estado:** Pendiente
+* **Como** administrador, **quiero** registrar productos **para** tener el catálogo al día.
+* **Tareas para completar:**
+  * [ ] Crear el formulario de registro.
+  * [ ] Validar que no se repita el código SKU.
+  * [ ] Guardar el producto en la base de datos.
 
-El Sprint 1 se centra en la organización inicial, levantamiento de necesidades y documentación. La asignación por integrante permite evidenciar quién trabaja cada componente.
+### [ ] HU04: Registrar ventas
+* **Responsable:** Valeria | **Puntos:** 5 | **Estado:** Pendiente
+* **Como** cajera, **quiero** registrar las ventas **para** cobrar al cliente y descontar el inventario.
+* **Tareas para completar:**
+  * [ ] Crear la pantalla para agregar productos a la venta.
+  * [ ] Calcular el valor total a pagar.
+  * [ ] Descontar el stock automáticamente al confirmar.
 
-| ID | Historia / actividad | Responsable | Estimación | Estado |
-|---|---|---|---:|---|
-| HU01 | Registrar productos | Oriana | 5 pts | Pendiente |
-| HU02 | Consultar productos | Oriana | 3 pts | Pendiente |
-| HU03 | Gestionar inventario | Oriana | 5 pts | Pendiente |
-| HU04 | Registrar ventas | Valeria | 5 pts | Pendiente |
-| HU05 | Consultar productos | Felipe | 3 pts | Pendiente |
-| HU06 | Crear carrito | Felipe | 5 pts | Pendiente |
-| HU07 | Realizar pedido | Felipe | 5 pts | Pendiente |
-
-**Total de estimación de las historias documentadas:** 31 puntos.
-
-> La estimación es la propuesta registrada en el Product Backlog y puede ser validada o ajustada durante la planificación.
+### [ ] HU06: Crear carrito de compras
+* **Responsable:** Felipe | **Puntos:** 5 | **Estado:** Pendiente
+* **Como** cliente, **quiero** agregar productos a un carrito **para** comprar varios ítems juntos.
+* **Tareas para completar:**
+  * [ ] Botón "Agregar al carrito" en los productos.
+  * [ ] Mostrar resumen de productos y total en el carrito.
+  * [ ] Permitir cambiar cantidades o quitar ítems.
