@@ -1,16 +1,39 @@
-# Product Backlog – MiNegocioGO
+# Product Backlog
 
-El Product Backlog reúne las funcionalidades generales identificadas para el proyecto. No todas las historias pertenecen al Sprint 1; su selección se realiza de manera progresiva durante la planificación de cada Sprint.
+## Propósito
 
-| ID | Épica | Feature | Historia de usuario | Prioridad | Estimación |
-|---|---|---|---|---|---:|
-| HU01 | Gestión de productos | Registrar productos | Como pequeño comerciante quiero registrar productos para tenerlos disponibles en el sistema. | Alta | 5 |
-| HU02 | Gestión de productos | Consultar productos | Como pequeño comerciante quiero consultar mis productos para conocer la información registrada. | Alta | 3 |
-| HU03 | Inventario | Gestionar inventario | Como pequeño comerciante quiero controlar las existencias para conocer qué productos tengo disponibles. | Alta | 5 |
-| HU04 | Ventas | Registrar ventas | Como pequeño comerciante quiero registrar las ventas para llevar control de mis movimientos. | Alta | 5 |
-| HU05 | Clientes | Consultar productos | Como cliente quiero consultar los productos disponibles para seleccionar lo que deseo comprar. | Media | 3 |
-| HU06 | Pedidos | Crear carrito | Como cliente quiero agregar productos a un carrito para realizar un pedido. | Media | 5 |
-| HU07 | Pedidos | Realizar pedido | Como cliente quiero realizar mi pedido a domicilio para recibir mis productos. | Media | 5 |
-| HU08 | Pagos | Pago en aplicación | Como cliente quiero realizar el pago de mi pedido desde la aplicación. | Media | 5 |
+El Product Backlog contiene las funcionalidades priorizadas de MiNegocioGO. Para el alcance inicial se seleccionaron tres historias que permiten construir la base de gestión de productos.
 
-> Nota: las prioridades y estimaciones son una propuesta inicial y deben validarse durante la planificación correspondiente.
+## Backlog inicial
+
+| ID | Historia | Descripción | Prioridad | Puntos | Estado |
+|---|---|---|---|---:|---|
+| [ ] US-01 | Registrar productos | Permitir registrar los datos básicos de los productos para mantener organizada su información. | Alta | 3 | Pendiente |
+| [ ] US-02 | Consultar productos registrados | Permitir consultar el listado y la información básica de los productos registrados. | Alta | 2 | Pendiente |
+| [ ] US-03 | Actualizar información de productos | Permitir modificar y guardar la información de un producto existente. | Alta | 3 | Pendiente |
+
+**Total estimado del backlog inicial: 8 puntos.**
+
+## Detalle
+
+### [ ] US-01 – Registrar productos
+**Descripción:** El comerciante podrá crear un registro de producto con la información básica requerida.
+
+### [ ] US-02 – Consultar productos registrados
+**Descripción:** El comerciante podrá consultar el listado de productos previamente registrados.
+
+### [ ] US-03 – Actualizar información de productos
+**Descripción:** El comerciante podrá modificar los datos permitidos de un producto y guardar los cambios.
+
+## Criterio de priorización
+
+Las tres historias se consideran prioritarias porque forman una secuencia funcional básica:
+
+**Registrar → Consultar → Actualizar**
+
+Esto permite contar con una base coherente antes de incorporar funcionalidades más avanzadas como movimientos de inventario, ventas y pedidos online.
+
+## Seguimiento
+
+- `[ ]` Pendiente.
+- `[x]` Completado y validado.
