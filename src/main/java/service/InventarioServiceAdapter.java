@@ -1,8 +1,10 @@
-package service.validators;
+package service;
 
 import domain.Inventario;
+import domain.producto;
 import service.inputports.InventarioServiceInterface;
 import service.outputports.InventarioRepositoryPort;
+import service.outputports.ProductoRepositoryPort;
 
 public class InventarioServiceAdapter implements InventarioServiceInterface {
 

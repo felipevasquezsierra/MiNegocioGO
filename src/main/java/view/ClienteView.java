@@ -2,6 +2,7 @@ package view;
 
 import domain.Cliente;
 import service.inputports.ClienteServiceInterface;
+import service.validators.DataTypeValidator;
 
 public class ClienteView {
 

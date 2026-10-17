@@ -2,6 +2,7 @@ package view;
 
 import domain.Tienda;
 import service.inputports.TiendaServiceInterface;
+import service.validators.DataTypeValidator;
 
 public class TiendaView {
 

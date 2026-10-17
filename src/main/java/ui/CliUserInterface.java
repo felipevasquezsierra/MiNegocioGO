@@ -1,8 +1,7 @@
 package ui;
 
-import view.ClienteView;
-import view.InventarioView;
-import view.PagoView;
+import service.validators.DataTypeValidator;
+import view.*;
 
 public class CliUserInterface {
 
