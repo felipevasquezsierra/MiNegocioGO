@@ -2,6 +2,7 @@ package view;
 
 import domain.Pago;
 import service.inputports.PagoServiceInterface;
+import service.validators.DataTypeValidator;
 
 public class PagoView {
 

@@ -2,6 +2,7 @@ package view;
 
 import domain.ReporteVentas;
 import service.inputports.ReporteVentasServiceInterface;
+import service.validators.DataTypeValidator;
 
 public class ReporteVentasView {
 

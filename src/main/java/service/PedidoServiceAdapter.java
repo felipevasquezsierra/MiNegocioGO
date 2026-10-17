@@ -1,4 +1,4 @@
-package service.validators;
+package service;
 
 import domain.Cliente;
 import domain.Pedido;

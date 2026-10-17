@@ -1,8 +1,10 @@
-package service.validators;
+package service;
 
 import domain.Pago;
+import domain.Pedido;
 import service.inputports.PagoServiceInterface;
 import service.outputports.PagoRepositoryPort;
+import service.outputports.PedidoRepositoryPort;
 
 public class PagoServiceAdapter implements PagoServiceInterface {
 

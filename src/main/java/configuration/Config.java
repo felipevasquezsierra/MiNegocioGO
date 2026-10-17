@@ -1,11 +1,9 @@
 package configuration;
 
 import repository.*;
+import service.*;
 import service.inputports.*;
 import service.outputports.*;
-import service.validators.ClienteServiceAdapter;
-import service.validators.InventarioServiceAdapter;
-import service.validators.PagoServiceAdapter;
 import ui.CliUserInterface;
 import view.*;
 

@@ -1,4 +1,4 @@
-package service.validators;
+package service;
 
 import domain.Tienda;
 import service.inputports.TiendaServiceInterface;
