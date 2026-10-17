@@ -2,7 +2,6 @@ package view;
 
 import domain.Inventario;
 import service.inputports.InventarioServiceInterface;
-import service.validators.DataTypeValidator;
 
 public class InventarioView {
 

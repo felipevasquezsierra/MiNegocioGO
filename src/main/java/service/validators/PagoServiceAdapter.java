@@ -1,4 +1,4 @@
-package service;
+package service.validators;
 
 import domain.Pago;
 import service.inputports.PagoServiceInterface;

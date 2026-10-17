@@ -2,7 +2,6 @@ package view;
 
 import domain.producto;
 import service.inputports.ProductoServiceInterface;
-import service.validators.DataTypeValidator;
 
 public class ProductoView {
 

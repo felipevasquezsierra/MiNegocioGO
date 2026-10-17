@@ -1,4 +1,4 @@
-package service;
+package service.validators;
 
 import domain.Inventario;
 import service.inputports.InventarioServiceInterface;

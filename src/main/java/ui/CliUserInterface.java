@@ -1,6 +1,5 @@
 package ui;
 
-import service.validators.DataTypeValidator;
 import view.ClienteView;
 import view.InventarioView;
 import view.PagoView;
